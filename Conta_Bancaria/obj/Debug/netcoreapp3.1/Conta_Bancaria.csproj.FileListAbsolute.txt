@@ -1,0 +1,13 @@
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.exe
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.deps.json
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.runtimeconfig.json
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.runtimeconfig.dev.json
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.dll
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\bin\Debug\netcoreapp3.1\Conta_Bancaria.pdb
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.csprojAssemblyReference.cache
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.AssemblyInfo.cs
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.dll
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.pdb
+C:\Users\marcelo.costa\source\repos\Conta_Bancaria\Conta_Bancaria\obj\Debug\netcoreapp3.1\Conta_Bancaria.genruntimeconfig.cache
